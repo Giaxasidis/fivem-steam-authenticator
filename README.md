@@ -25,7 +25,7 @@ end)
 ```
 
 > \[!TIP]
-> Ensure the Steam client is running before starting FiveM. Players attempting to connect without Steam client will be rejected.
+> Ensure the Steam is running before starting FiveM. Players attempting to connect without Steam open will be rejected.
 
 ## Installation
 1. Download or copy the `steamCheck.lua` file.
@@ -41,8 +41,6 @@ server_script 'steamCheck.lua'
 ```
 > \[!WARNING]
 > This script requires a valid Steam Web API Key to properly verify player Steam IDs.
-> Make sure to configure it in the script before use.
-
 4. Configure your Steam Web API Key in your `server.cfg`:
 
 ```cfg
@@ -57,7 +55,7 @@ ensure steam-verifier
 
 
 > \[!CAUTION]
-> Temporary Steam connectivity issues may  require restarting Steam and FiveM clients to restore proper functionality.
+> Temporary Steam connectivity issues may require restarting Steam and FiveM clients to restore functionality.
 
 ## Support & Security
 
