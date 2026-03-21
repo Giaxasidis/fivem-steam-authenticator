@@ -1,4 +1,4 @@
-# Steam Verifier
+## Steam Verifier
 **Steam Verifier** is an open-source FiveM server script that enforces Steam authentication by preventing players from connecting without an active Steam client. Leveraging the `playerConnecting` event, it ensures a secure and reliable connection environment for your server, verifying that all users are properly authenticated through Steam Client.
 
 Perfect for roleplay servers, whitelist groups, and online communities!
