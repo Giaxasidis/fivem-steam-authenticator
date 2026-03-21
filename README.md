@@ -57,7 +57,7 @@ ensure steam-verifier
 
 
 > \[!CAUTION]
-> Temporary Steam connectivity issues may occasionally require restarting both Steam and FiveM clients to restore proper functionality.
+> Temporary Steam connectivity issues may  require restarting Steam and FiveM clients to restore proper functionality.
 
 ## Support & Security
 
