@@ -25,7 +25,7 @@ end)
 ```
 
 > \[!TIP]
-> Ensure the Steam is running before starting FiveM. Players attempting connect without Steam open will be rejected.
+> Ensure the Steam is running before connecting. Players attempting connect without Steam open will be rejected.
 
 ## Installation
 1. Download or copy the `steamCheck.lua` file.
