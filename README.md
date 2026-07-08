@@ -57,10 +57,6 @@ ensure steam-verifier
 > \[!CAUTION]
 > Temporary Steam connectivity issues may require restarting Steam and FiveM clients to restore functionality.
 
-## Support & Security
-
-If you have any questions or discover a security vulnerability, please contact me directly via my [Discord Profile](https://discordlookup.com/user/1069279857072160921). I am committed to responding promptly and assisting you as quickly as possible.
-
 **Please refrain from publicly disclosing any security vulnerabilities** to ensure proper handling and resolution.
 
 ## Contributing
@@ -79,7 +75,3 @@ This project is licensed under the **MIT License**, granting you full permission
 * The software is provided "as is", without warranty of any kind, express or implied.
 
 For full details, see the [MIT License](https://opensource.org/licenses/MIT).
-
-## Created by [KaloudasDev](https://github.com/KaloudasDev).
-
-If you find this project useful, please consider leaving a star. Thank you for your support!
