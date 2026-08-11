@@ -20,7 +20,6 @@ This solution requires no databases or complex authentication logic, providing a
 
 ```lua
 AddEventHandler('playerConnecting', function(name, setKickReason, deferrals)
-    -- Full code available in `steamCheck.lua`
 end)
 ```
 
