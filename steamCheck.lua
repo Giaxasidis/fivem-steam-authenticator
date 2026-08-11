@@ -23,7 +23,6 @@ AddEventHandler('playerConnecting', function(name, setKickReason, deferrals)
 
     if not steamIdentifier then
         deferrals.done("Connection denied. Steam must be running to join this server.")
-        -- print(("[STEAM CHECK] Connection denied for %s. Steam is not running."):format(name))
         return
     end
 
